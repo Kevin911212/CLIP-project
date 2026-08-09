@@ -1,1 +1,1 @@
-# CLIP-fashion_db-with-AI
+# CLIP-project
